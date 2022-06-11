@@ -1,0 +1,24 @@
+.body_backgorund 
+{
+    background-image:url(https://www.desktopbackground.org/p/2015/03/13/916642_mighty-morphin-power-rangers-wallpapers-wallpapers-zone_800x600_h.jpg);
+    background-position:center;
+    background-size:cover;
+
+}
+#myCanvas
+{
+    border-width:10px;
+    height: 10000;
+    border-style:ridge;
+    background: -webkit-linear-gradient( purple,blue);
+    -webkit-text-fill-color: transparent;
+    
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+    
+}
